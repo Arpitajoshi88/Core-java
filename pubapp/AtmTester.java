@@ -1,4 +1,4 @@
-package com.xworkz.Atmapp;
+package com.xworkz.pubapp;
 
 
 	import java.util.Scanner;
